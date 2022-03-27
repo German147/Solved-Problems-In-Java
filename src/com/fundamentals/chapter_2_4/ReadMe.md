@@ -1,0 +1,2 @@
+###Problema 2.4
+Se requiere un programa que ofrezca al usuario un saludo personalizado con su nombre. Identificar Entradas, Proceso y Salidas (E-P-S). Diseñar el algoritmo. Representar el algoritmo con un diagrama de flujo.

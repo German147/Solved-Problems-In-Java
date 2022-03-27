@@ -1,0 +1,6 @@
+Problema 3.6
+El departamento Personal de la universidad requiere información para el cálculo del salario de un docente. Se pide generar la siguiente salida impresa:
+● El sueldo neto del docente. Si el cargo es docente titular su sueldo básico es de 50000 pesos; si es docente ayudante su sueldo básico es 35000 pesos. Además, para el cálculo del sueldo neto se considera la antigüedad; si el docente tiene una antigüedad de 10 o más tiene un incremento de 8%, si la antigüedad es de mayor o igual a 7 pero menor a 10 años el incremento es del 5%, si tiene 5 años o más pero menos que 7 tiene un incremento del 3 % Los que tienen menos de 5 años no cobran incremento. (El incremento es sobre el sueldo básico)
+Para ello Ud. dispone de las siguientes entradas:
+● Cargo Docente (cargo): representa el cargo que desempeña el docente en la universidad. Los valores que asume son “1” si es docente titular y “2” si es docente ayudante.
+● Antigüedad (antig): representa la cantidad de años en relación con el cargo que desempeña.
