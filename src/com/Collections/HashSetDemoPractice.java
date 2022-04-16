@@ -1,6 +1,7 @@
 package com.Collections;
 
 import java.util.HashSet;
+import java.util.stream.Collectors;
 
 public class HashSetDemoPractice {
     public static void main(String[] args) {
@@ -16,6 +17,8 @@ public class HashSetDemoPractice {
         System.out.println(miHashSet.size());
         System.out.println(miHashSet.clone());
         System.out.println(miHashSet);
+        miHashSet.stream().sorted().collect(Collectors.toSet());
+
 
 
     }
